@@ -1,0 +1,22 @@
+.home-container {
+  background-color: black;
+  width: 100%;
+}
+
+.home-navbar {
+  position: fixed;
+  z-index: 1;
+}
+
+.home-carousel {
+  padding-top: 50px;
+}
+
+.home-category-list-container {
+  margin: 10px 20px;
+}
+
+.home-category-list-card {
+  padding-left: 20px;
+  padding-right: 20px;
+}
