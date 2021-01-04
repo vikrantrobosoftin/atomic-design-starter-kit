@@ -1,0 +1,30 @@
+.content-list-container {
+  background-color: black;
+}
+
+.content-list-text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.content-list-heading {
+  color: white;
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+.content-list-action-text {
+  color: #938991;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.content-list-item-container {
+  margin: 10px 0px 20px 0px;
+}
+
+.content-list-item-card {
+  padding: 5px;
+}

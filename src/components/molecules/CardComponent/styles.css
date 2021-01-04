@@ -1,0 +1,17 @@
+.cc-container {
+  border-radius: 5px;
+  position: relative;
+}
+
+.cc-image {
+  border-radius: 10px;
+}
+
+.cc-text {
+  font-weight: bold;
+  position: absolute;
+  left: 45%;
+  bottom: 0;
+  color: white;
+  padding-bottom: 10px;
+}
